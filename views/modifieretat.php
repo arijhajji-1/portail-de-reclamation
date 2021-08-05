@@ -77,8 +77,8 @@ header("Location: retour.php");
 
 <select name="etat" id="etat">
     <option value=""><?= $result['etat'] ?></option>
-    <option value="réglé">réparé</option>
-    <option value="non réglé">non réparé</option>
+    <option value="réparé">réparé</option>
+    <option value="non réparé">non réparé</option>
     
 </select>
  </td>
