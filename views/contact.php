@@ -48,7 +48,7 @@ session_start();
         if(empty($_SESSION))
 {
   ?>
-          <li><a class="nav-link scrollto active" href="index.php">Acceuil</a></li>
+          <li><a class="nav-link scrollto active" href="index.php">Accueil</a></li>
           <li><a class="nav-link scrollto" href="apropos.php">A propos</a></li>
           
           <li><a href="inscription.php">Inscription</a></li>
@@ -59,7 +59,7 @@ else if(!empty($_SESSION))
 {
 
     ?>
-      <li><a class="nav-link scrollto active" href="index.php">Acceuil</a></li>
+      <li><a class="nav-link scrollto active" href="index.php">Accueil</a></li>
           <li><a class="nav-link scrollto" href="apropos.php">A propos</a></li>
       <li><a class="nav-link scrollto" href="reclamations.php">réclamation</a></li>
       <li><a class="nav-link scrollto" href="logout.php">déconnecter</a></li>

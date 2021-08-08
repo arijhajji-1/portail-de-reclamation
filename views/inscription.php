@@ -62,7 +62,7 @@ if (isset($_POST['nom']) && isset($_POST['prenom']) && isset($_POST['email']) &&
         
               <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
-                  <li><a class="nav-link scrollto active" href="index.php">Acceuil</a></li>
+                  <li><a class="nav-link scrollto active" href="index.php">Accueil</a></li>
                   <li><a class="nav-link scrollto" href="apropos.php">A propos</a></li>
                   
                   <li><a href="inscription.php">Inscription</a></li>

@@ -77,7 +77,7 @@ if (isset($_SESSION['id_user']) && isset($_POST['description']) && isset($_POST[
         
               <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
-                  <li><a class="nav-link scrollto active" href="index.php">Acceuil</a></li>
+                  <li><a class="nav-link scrollto active" href="index.php">Accueil</a></li>
                   <li><a class="nav-link scrollto" href="apropos.php">A propos</a></li>
                   
                   <li><a href="logout.php">déconnecter</a></li>
